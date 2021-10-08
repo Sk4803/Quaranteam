@@ -51,6 +51,7 @@ then follow the same steps as shown here.
     venv\Scripts\activate
     ```
 
+
 ## Gallery
 ![Demo](https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/CoWin%20Demo.gif)
 <img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_menu.png">
