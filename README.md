@@ -21,7 +21,7 @@ you can enter 'n' or 'N' character.
 The app's installation process is quite easy. Simply clone this github repo from your terminal or press download as zip, 
 and then unzip the downloaded folder to the directory of your choice.
 <br>
-<img src = "https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/SS_Download.png">
+<img src = "https://github.com/Sk4803/Quaranteam/blob/main/CoWin_Terminal-main/Images/SS_Download.png">
 
 Then navigate to the the directory and inside the  CoWin_Terminal folder open your terminal and type:
 ```
@@ -53,10 +53,10 @@ then follow the same steps as shown here.
 
 
 ## Gallery
-![Demo](https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/CoWin%20Demo.gif)
-<img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_menu.png">
-<img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_menu2.png">
-<img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_select_state.png">
-<img src="https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_select_dsitrict.png">
-<img src = "https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_results.png">
-<img src = "https://github.com/yvs2701/CoWin_Terminal/blob/main/Images/ss_results2.png">
+![Demo](https://github.com/Sk4803/Quaranteam/blob/main/CoWin_Terminal-main/Images/CoWin%20Demo.gif)
+<img src="https://github.com/Sk4803/Quaranteam/blob/main/CoWin_Terminal-main/Images/ss_menu.png">
+<img src="https://github.com/Sk4803/Quaranteam/blob/main/CoWin_Terminal-main/Images/ss_menu2.png">
+<img src="https://github.com/Sk4803/Quaranteam/blob/main/CoWin_Terminal-main/Images/ss_select_state.png">
+<img src="https://github.com/Sk4803/Quaranteam/blob/main/CoWin_Terminal-main/Images/ss_select_dsitrict.png">
+<img src = "https://github.com/Sk4803/Quaranteam/blob/main/CoWin_Terminal-main/Images/ss_results.png">
+<img src = "https://github.com/Sk4803/Quaranteam/blob/main/CoWin_Terminal-main/Images/ss_results2.png">
