@@ -7,8 +7,6 @@ from src.getDistricts import getDist
 from src.getStates import getStates
 from time import sleep
 from datetime import datetime
-from colorama import *
-from termcolor import *
 
 if __name__ == '__main__':
     print("\033c") # clears the entire screen so that we can rewrite on the terminal without having to scroll too much
@@ -47,7 +45,7 @@ if __name__ == '__main__':
             print('*** Default options selected ***')
 
         # vaccine filter
-        vaccine = int(input(FORE.RED + 'Which vaccine to search ?\n1. Covishield\n2. Covaxin\n3. Both\n   '))
+        vaccine = int(input('Which vaccine to search ?\n1. Covishield\n2. Covaxin\n3. Both\n   '))
         url_params = ''
 
         if (vaccine == 1):
